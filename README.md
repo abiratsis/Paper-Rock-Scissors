@@ -37,7 +37,7 @@ gradlew clean test
 To run the application execute the next command from the Paper-Rock-Scissors\build\libs directory:
 
 ```
-java -jar Paper-Rock-Scissors-1.0.jar com.imc.prs.Main
+java -jar Paper-Rock-Scissors-1.0.jar com.gaming.prs.Main
 ```
 
 ## Built With
